@@ -131,7 +131,7 @@ def main():
     historique = []
 
     print(" ------------------------------------------------")
-    print(" CALCULATEUR DE TRAJET")
+    print("CALCULATEUR DE TRAJET")
     print(" ------------------------------------------------")
 
     while True:
